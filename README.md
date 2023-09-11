@@ -65,10 +65,6 @@ Contributions to this data collection task are welcome. If you have improvements
 
 5. Create a pull request to merge your changes into the main branch.
 
-### License
-
-This data collection task is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ## Task 2: Predictive Modeling of Customer Bookings
@@ -100,5 +96,3 @@ This predictive modeling task is licensed under the MIT License - see the [LICEN
 
 **Note**: These tasks are for educational and illustrative purposes. The data collected and the models built may not represent real-world data or scenarios.
 ```
-
-You can copy and paste this entire README.md content into your project's README.md file, making sure to customize the placeholder text `[insert website name or description]` in Task 1 with the actual website name or description relevant to your project.
